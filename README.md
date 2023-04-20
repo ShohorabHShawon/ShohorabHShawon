@@ -1,4 +1,4 @@
-[![MasterHead](https://imgpile.com/images/hA5dRr.png)]
+![MasterHead](https://imgpile.com/images/hA5dRr.png)
 
 <h1 align="center">Hi 👋, I'm Shohorab Hossain Shawon</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
