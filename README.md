@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shohorab Hossain Shawon</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif](https://media.tenor.com/AzK_2X6D6OoAAAAd/fenomenoide-hacker-man.gif)">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 
 - 🔭 I’m currently working on **A game called "Beast Hunter"**
