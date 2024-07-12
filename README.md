@@ -68,6 +68,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/shohorabhshawon/shohorabhshawon/output/snake.svg" alt="Snake animation" />
 
 ###
