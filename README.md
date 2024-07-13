@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://pouch.jumpshare.com/preview/bHW8JrB-QnKE2hBnskeRzohWPxUzDE4HEzEsfqYl9iG2tLtr2iHvG7Tv3UMgb5hm2fbEiyH8dtQrhj7eT6ZUxUNQZlFeOTmw1m1_FfJDSBw"  />
+  <img height="" src="https://pouch.jumpshare.com/preview/bHW8JrB-QnKE2hBnskeRzohWPxUzDE4HEzEsfqYl9iG2tLtr2iHvG7Tv3UMgb5hm2fbEiyH8dtQrhj7eT6ZUxUNQZlFeOTmw1m1_FfJDSBw"  />
 </div>
 
 ###
@@ -62,6 +62,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shohorabhshawon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=shohorabhshawon&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="170" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shohorabhshawon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph"  />
 </div>
 
@@ -74,7 +75,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/shohorabhshawon/shohorabhshawon/output/snake.svg" alt="Snake animation" />
-
-###
 
 ###
